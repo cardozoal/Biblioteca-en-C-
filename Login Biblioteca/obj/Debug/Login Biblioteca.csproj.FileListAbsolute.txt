@@ -1,0 +1,24 @@
+D:\Archivos, Juegos y más\Trabajos Practicos\2do Año\Practica Profesional 2\Login Biblioteca\bin\Debug\Login Biblioteca.exe.config
+D:\Archivos, Juegos y más\Trabajos Practicos\2do Año\Practica Profesional 2\Login Biblioteca\bin\Debug\Login Biblioteca.exe
+D:\Archivos, Juegos y más\Trabajos Practicos\2do Año\Practica Profesional 2\Login Biblioteca\bin\Debug\Login Biblioteca.pdb
+D:\Archivos, Juegos y más\Trabajos Practicos\2do Año\Practica Profesional 2\Login Biblioteca\obj\Debug\Login Biblioteca.csprojAssemblyReference.cache
+D:\Archivos, Juegos y más\Trabajos Practicos\2do Año\Practica Profesional 2\Login Biblioteca\obj\Debug\Login_Biblioteca.Form1.resources
+D:\Archivos, Juegos y más\Trabajos Practicos\2do Año\Practica Profesional 2\Login Biblioteca\obj\Debug\Login_Biblioteca.Form2.resources
+D:\Archivos, Juegos y más\Trabajos Practicos\2do Año\Practica Profesional 2\Login Biblioteca\obj\Debug\Login_Biblioteca.Form3.resources
+D:\Archivos, Juegos y más\Trabajos Practicos\2do Año\Practica Profesional 2\Login Biblioteca\obj\Debug\Login_Biblioteca.Properties.Resources.resources
+D:\Archivos, Juegos y más\Trabajos Practicos\2do Año\Practica Profesional 2\Login Biblioteca\obj\Debug\Login Biblioteca.csproj.GenerateResource.cache
+D:\Archivos, Juegos y más\Trabajos Practicos\2do Año\Practica Profesional 2\Login Biblioteca\obj\Debug\Login Biblioteca.csproj.CoreCompileInputs.cache
+D:\Archivos, Juegos y más\Trabajos Practicos\2do Año\Practica Profesional 2\Login Biblioteca\obj\Debug\Login Biblioteca.exe
+D:\Archivos, Juegos y más\Trabajos Practicos\2do Año\Practica Profesional 2\Login Biblioteca\obj\Debug\Login Biblioteca.pdb
+D:\Archivos, Juegos y más\Facultad\2do Año\Practica Profesional 2\Login Biblioteca\bin\Debug\Login Biblioteca.exe.config
+D:\Archivos, Juegos y más\Facultad\2do Año\Practica Profesional 2\Login Biblioteca\bin\Debug\Login Biblioteca.exe
+D:\Archivos, Juegos y más\Facultad\2do Año\Practica Profesional 2\Login Biblioteca\bin\Debug\Login Biblioteca.pdb
+D:\Archivos, Juegos y más\Facultad\2do Año\Practica Profesional 2\Login Biblioteca\obj\Debug\Login Biblioteca.csprojAssemblyReference.cache
+D:\Archivos, Juegos y más\Facultad\2do Año\Practica Profesional 2\Login Biblioteca\obj\Debug\Login_Biblioteca.Form1.resources
+D:\Archivos, Juegos y más\Facultad\2do Año\Practica Profesional 2\Login Biblioteca\obj\Debug\Login_Biblioteca.Form2.resources
+D:\Archivos, Juegos y más\Facultad\2do Año\Practica Profesional 2\Login Biblioteca\obj\Debug\Login_Biblioteca.Form3.resources
+D:\Archivos, Juegos y más\Facultad\2do Año\Practica Profesional 2\Login Biblioteca\obj\Debug\Login_Biblioteca.Properties.Resources.resources
+D:\Archivos, Juegos y más\Facultad\2do Año\Practica Profesional 2\Login Biblioteca\obj\Debug\Login Biblioteca.csproj.GenerateResource.cache
+D:\Archivos, Juegos y más\Facultad\2do Año\Practica Profesional 2\Login Biblioteca\obj\Debug\Login Biblioteca.csproj.CoreCompileInputs.cache
+D:\Archivos, Juegos y más\Facultad\2do Año\Practica Profesional 2\Login Biblioteca\obj\Debug\Login Biblioteca.exe
+D:\Archivos, Juegos y más\Facultad\2do Año\Practica Profesional 2\Login Biblioteca\obj\Debug\Login Biblioteca.pdb
